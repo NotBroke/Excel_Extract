@@ -3,8 +3,7 @@
 
 # add both UBS Excel Editor.pynb & Excel_Parse_Temp.csv to a jupyter notebook
 
-# FIND A WAY TO GET UBS FILE to save as excel parse!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-# in the Excel Editor, follow the direction on the top, add whatever cusips/accts need to be removed
+# copy the filepath of excel_parse_temp to add to UBS Excel Editor for the "file to use"
+# add whatever cusips/accts need to be removed
 
 # run it, see output
