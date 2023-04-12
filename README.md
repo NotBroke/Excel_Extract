@@ -1,4 +1,4 @@
-# --- DIECTIONS ---
+# --- DIRECTIONS ---
 # download & extract full repo folder
 
 # add both UBS Excel Editor.pynb & Excel_Parse_Temp.csv to a jupyter notebook
